@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+App that converts number of minutes/reps of activity into calories and equivalent of minutes/reps in other activities.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Maya Angelica Hernandez ([mayaah@berkeley.edu](mailto:mayaah@berkeley.edu))
 
 ## Demo Video
 
@@ -16,7 +16,6 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
+* Hat tip to anyone who's code was used. Shout out to Google image search for icons.
 * Any other support
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
