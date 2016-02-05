@@ -13,7 +13,7 @@ See [your demo video title here] (https://link_to_your_video)
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
-<img src="Screen Shot 2016-02-04 at 6.02.45 PM.png" height="400">
+<img src="screenshots/Screen Shot 2016-02-04 at 6.02.45 PM.png" height="400">
 
 ## Acknowledgments
 
