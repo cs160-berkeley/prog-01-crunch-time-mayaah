@@ -8,7 +8,7 @@ Maya Angelica Hernandez ([mayaah@berkeley.edu](mailto:mayaah@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Burn] (https://youtu.be/iqgnK0gNT_M)
 
 ## Screenshots
 <img src="screenshots/burntitleimage.jpg" height="400">
